@@ -11,10 +11,10 @@ public class Main {
 
         ArrayList<String> animals = new ArrayList<>();
 
-        animals.add("cows");
-        animals.add("cats");
-        animals.add("dogs");
-        animals.add("hen");
+        animals.add("rats");
+        animals.add("leeches");
+        animals.add("horse");
+        animals.add("donkey");
 
           for(String i:animals){  //colon represents the word in - for every String index {in} array of animals
         System.out.println(i);
