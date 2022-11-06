@@ -22,6 +22,8 @@ public class Main {
         animals.add("Boar");
         animals.add("crocodile");
         animals.add("hippos");
+        animals.add("Warthog");
+        animals.add("Lions");
 
 
           for(String i:animals){  //colon represents the word in - for every String index {in} array of animals
