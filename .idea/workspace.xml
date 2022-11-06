@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a207fd4-c4e8-4d0c-b6d5-597e4820950d" name="Changes" comment="commented out normal array and introduced ArrayList" />
+    <list default="true" id="0a207fd4-c4e8-4d0c-b6d5-597e4820950d" name="Changes" comment="added inputs">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +51,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667674800781</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commented out normal array and introduced">
+      <created>1667760815976</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667760815976</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added input">
+      <created>1667760908386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667760908386</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added inputs">
+      <created>1667761043679</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667761043679</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,6 +88,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commented out normal array and introduced ArrayList" />
-    <option name="LAST_COMMIT_MESSAGE" value="commented out normal array and introduced ArrayList" />
+    <MESSAGE value="commented out normal array and introduced" />
+    <MESSAGE value="added input" />
+    <MESSAGE value="added inputs" />
+    <option name="LAST_COMMIT_MESSAGE" value="added inputs" />
   </component>
 </project>
