@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a207fd4-c4e8-4d0c-b6d5-597e4820950d" name="Changes" comment="added inputs">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a207fd4-c4e8-4d0c-b6d5-597e4820950d" name="Changes" comment="added inputs on the code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667761043679</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added inputs on the code">
+      <created>1667761126906</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667761126906</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added inputs on the code">
+      <created>1667761268805</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667761268805</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,6 +103,7 @@
     <MESSAGE value="commented out normal array and introduced" />
     <MESSAGE value="added input" />
     <MESSAGE value="added inputs" />
-    <option name="LAST_COMMIT_MESSAGE" value="added inputs" />
+    <MESSAGE value="added inputs on the code" />
+    <option name="LAST_COMMIT_MESSAGE" value="added inputs on the code" />
   </component>
 </project>
